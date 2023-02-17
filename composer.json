@@ -1,0 +1,19 @@
+{
+    "name": "liuhai2023/composerdemo",
+    "description": "a composer demo",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Liuhai2023\\Composerdemo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "liuhai2023",
+            "email": "oo1700@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
